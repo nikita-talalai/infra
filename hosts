@@ -1,0 +1,2 @@
+host1 ansible_host=45.142.122.130 ansible_user=root
+host2 ansible_host=77.221.151.96 ansible_user=root
